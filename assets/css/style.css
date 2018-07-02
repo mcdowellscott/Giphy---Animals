@@ -1,0 +1,51 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.model {
+  color: #000000;
+}
+
+.btn {
+  border-color: #000000;
+}
+
+.btn-athlete {
+  background: greenyellow;
+  color: black;
+  margin: 1rem;
+  min-width: 15rem;
+}
+
+.div-athlete, #athlete-form {
+  display: inline-block;
+  margin: 1rem;
+}
+
+.img-athlete {
+  background-position: center;
+  background-size: cover;
+  height: 20rem;
+  width: 25rem;
+}
+
+#athlete-input {
+  border-color: #000000;
+  color: #000000;
+  font-size: 1.6rem;
+  max-width: 25rem;
+}
+
+#add-athlete, #delete-athlete {
+  background: black;
+  color: #ffffff;
+  font-size: 1.6rem;
+  text-shadow: none;
+  width: 8.5rem;
+}
+
+label {
+  font-size: 1.8rem;
+}
+
